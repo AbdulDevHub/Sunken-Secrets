@@ -8,9 +8,19 @@ This repository contains the code for an immersive underwater game I made using 
 
 ## Features
 
-- **Spawning Enemies**: Enemies spawn at random locations and move towards the player.
-- **Giant Final Boss**: A challenging final boss appears at the end of the game.
+- **Immersive Underwater Environment**: Experience the vibrant rock and coral environments, exotic and colourful fish, and hidden sharks.
+- **Quest for the Three Keys**: Navigate the perilous depths to find the 3 keys that unlock the treasure chest.
+- **Mysterious Radio Operator**: Uncover the true purpose of your mission and the agenda of the mysterious radio operator.
 - **Dynamic Music**: The music changes dynamically based on the game state.
-- **Power Ups**: Players can collect various power-ups to enhance their spaceship.
+- **Challenging Enemies**: Encounter roaming blood-thirsty sharks that will try to devour you.
+
+## Repository Contents
+
+- **Assets**: Contains all the assets used in the game such as models, textures, sounds, etc.
+- **Game Scripts**: Contains the C# scripts that control the game mechanics.
+- **Playable Version (Desktop Build)**: A desktop version of the game that can be downloaded and played.
+- **Playable Version (Online Build)**: An online version of the game that can be deployed to the browser (see repository link at top).
+- **Artist Statement**: A document containing a short and creative showcase overview statement about the game.
+- **Sunken Treasure Game Design Document**: The game design document for Sunken Secrets: The Treasure Of The Three Keys.
 
 <br>
