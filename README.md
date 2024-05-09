@@ -1,6 +1,8 @@
 # Sunken Secrets: The Treasure Of The Three Keys
 
-<img height="400" src="Screenshot.png">
+<a href="https://play.unity.com/mg/other/online-build-3" target="_blank" rel="noreferrer"> 
+  <img height="400" src="Screenshot.png">
+</a>
 
 ## Overview
 
